@@ -5,6 +5,9 @@ This program acts like a pokedex for the user.
 
 Before using it, use the cleanup.py file to clean up two files so the program can work correctly.
 
+Next, make a folder named data and the proceed to put in two new folders named orig and clean.
+Put all the excel files provided in the orig folder and leave the clean folder empty.
+
 After that, the program works by having the user select to search by name or region.
 
 If selected to search by name, gives the user information back like name, locations and moves.
